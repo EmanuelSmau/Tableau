@@ -1,2 +1,2 @@
 # Tableau
-mini project in Tableau
+Simple mini-project in Tableau
