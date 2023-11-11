@@ -1,2 +1,4 @@
 # Tableau
-Simple mini-project in Tableau
+Simple mini-project in Tableau,
+
+Just click "View raw" to see it.
